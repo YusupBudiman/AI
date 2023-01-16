@@ -1,4 +1,3 @@
-# Chatbot Deployment with Flask and JavaScript
 ## Initial Setup:
 
 Installing
@@ -7,7 +6,7 @@ create env pytorch in conda
 install pytorch
 
 ```
-Appli
+## Appli
 ```
 open terminal
 $ Conda activate pytorch
