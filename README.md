@@ -2,11 +2,11 @@
 
 Installing
 ```
-create env pytorch in conda
-install pytorch
+>> create env pytorch in conda
+>> install pytorch
 
 ```
-## Appli
+## Application
 ```
 open terminal
 $ Conda activate pytorch
